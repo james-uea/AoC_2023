@@ -2,4 +2,4 @@
 Advent of Code 2023
 
 # Notes
-Aiming to further my understanding of Javascript with this years AoC, so will try and produce most solutions in javascript :)
+I was going to do this in javascript but then git decided it would wipe my local files :) so forget that, I'm using python
