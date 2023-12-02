@@ -1,8 +1,3 @@
-MAX_RED = 12
-MAX_GREEN = 13
-MAX_BLUE = 14
-
-
 def get_cube_count(throw):
     # Get the given red green and blue cubes from a throw
     data = {"red": 0, "green": 0, "blue": 0}
